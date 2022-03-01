@@ -50,6 +50,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML]
 - [CSS]
 
+### Próximo passo
+* Site responsivo 
+* Organizar o CSS e migrar para metodologia BEM
+* Passar algumas operações que está rodando nas rotas para os models
+
 ### Autor
 
 <img alt="FERNANDO" title="FERNANDO" src="https://avatars.githubusercontent.com/u/32759004?v=4" height="100" width="100" />
